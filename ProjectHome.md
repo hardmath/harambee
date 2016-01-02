@@ -1,0 +1,3 @@
+This software consists of a data entry system which allows for field reports of violence to be recorded. All the details concerning the act are stored in a relational database which will allow for the creation of reports.
+
+This software is being developed to aid the NGO "No Peace Without Justice" in their task of analyzing the current state of affairs following the election of President Kibaki in Kenya.
